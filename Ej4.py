@@ -70,3 +70,4 @@ def operar(lista_enteros,n):
     return resultado
 
 if__name__=="__main__":
+    lista=separar(argumento)

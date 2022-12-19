@@ -37,3 +37,6 @@ def numero(string):
 
 
 print(numero('seven'))
+
+if __name__ == "__main__":
+    print(numero('seven'))
